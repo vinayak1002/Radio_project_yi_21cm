@@ -1,0 +1,13 @@
+mjd=61265.62614101994
+dev_args=rtl=0
+rf_gain=40
+if_gain=30
+bb_gain=30
+frequency=1420405000
+bandwidth=2400000
+channels=2048
+t_sample=1
+duration=300
+loc=Bengaluru
+ra_dec=
+az_alt=
